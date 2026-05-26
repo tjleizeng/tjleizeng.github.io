@@ -32,6 +32,6 @@ I completed my Ph.D. in Transportation and Infrastructure Systems Engineering at
 
 My current research is organized around three connected directions:
 
-- **Transportation AI:** reinforcement learning for pricing, relocation, and control in mobility-on-demand systems, including my Transportation Research Part B work on [dynamic pricing in ride-hailing systems](/publications/#lei2023pricing) and the [RL pricing project](https://github.com/umnilab/RL_pricing).
-- **Network-level simulation:** city-scale simulation for multimodal electric mobility and service operations, centered on [METS-R SIM](/publications/#lei2024metsrsim) and its [project documentation](https://umnilab.github.io/METS-R_doc/Welcome.html).
-- **CPS operation and security:** simulation-supported analysis of cyber-physical transportation systems, including network-level risks from [adversarial booking attacks](/publications/#lei2025adversarialbooking) and the [ADV Booking project](https://github.com/umnilab/ADV_Booking).
+- **Transportation AI:** reinforcement learning for pricing, relocation, and control in mobility-on-demand systems, including my Transportation Research Part B work on [dynamic pricing in ride-hailing systems](https://github.com/umnilab/RL_pricing).
+- **Network-level simulation:** city-scale simulation for multimodal electric mobility and service operations, centered on [METS-R SIM](https://umnilab.github.io/METS-R_doc/Welcome.html).
+- **CPS operation and security:** simulation-supported analysis of cyber-physical transportation systems, including network-level risks from [adversarial booking attacks](https://github.com/umnilab/ADV_Booking).
