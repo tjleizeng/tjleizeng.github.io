@@ -1,34 +1,27 @@
 cv:
   name: Zengxiang Lei
-  label: Transportation AI, Simulation, and Cyber-Physical Systems Researcher
+  headline: Transportation AI, Simulation, and Cyber-Physical Systems Researcher
   email: lei67@purdue.edu
-  phone: 765-337-9885
+  phone: "+1 765-337-9885"
   location: West Lafayette, IN
   website: https://tjleizeng.github.io
-  summary: >
-    I build scalable models and decision systems for ride-hailing, shared
-    autonomous electric fleets, evacuation, and transportation security.
-    My long-term goal is simulation-supported reasoning: using machine learning
-    to make large-scale simulation more realistic and efficient, while using
-    simulation to stress-test, verify, and improve control policies for
-    socio-cyber-physical systems.
 
   social_networks:
     - network: GitHub
       username: tjleizeng
 
-  address:
-    city: West Lafayette
-    region: Indiana
-    countryCode: US
-
   sections:
+    Professional Summary:
+      - >
+        I build scalable models and decision systems for ride-hailing, shared
+        autonomous electric fleets, evacuation, and transportation security.
+
     Experience:
       - company: Transportation Cybersecurity and Resiliency Center, Purdue University
         position: Postdoctoral Associate
         location: West Lafayette, IN
         start_date: 2025-01
-        end_date: Present
+        end_date: present
         highlights:
           - "Lead research connecting METS-R SIM, CARLA, and an autonomous driving stack for controlled, repeatable scenario testing."
           - "Develop amortized samplers for policy and control verification in simulated environments, with emphasis on rare, high-impact scenarios."
@@ -48,7 +41,7 @@ cv:
       - institution: Purdue University
         location: West Lafayette, IN
         area: Transportation and Infrastructure Systems Engineering
-        studyType: Ph.D.
+        degree: Ph.D.
         start_date: 2018
         end_date: 2024
         highlights:
@@ -58,7 +51,7 @@ cv:
       - institution: Tongji University
         location: Shanghai, China
         area: Transportation Planning and Management; Transportation Engineering
-        studyType: M.S.E. and B.S.
+        degree: M.S.E. and B.S.
         start_date: 2011
         end_date: 2018
 
@@ -82,33 +75,31 @@ cv:
           - "Built evidence from smartphone GPS and trajectory data to study transportation resilience, demand recovery, and traveler response."
 
     Honors and Awards:
-      - title: Eldon J. Yoder Memorial Award
-        awarder: Purdue University
+      - name: Eldon J. Yoder Memorial Award
         date: 2024
-        summary: 2024-2025 academic year.
+        summary: Purdue University, 2024-2025 academic year.
 
-      - title: NSF Innovation Corps Midwest Industry Connect Grant
-        awarder: National Science Foundation I-Corps Midwest
+      - name: NSF Innovation Corps Midwest Industry Connect Grant
         date: 2019
-        summary: Awarded for work on social ride-sharing.
+        summary: National Science Foundation I-Corps Midwest. Awarded for work on social ride-sharing.
 
-      - title: "Chinese Patent: A Method for Evaluating Reserve Capacity of Urban Metro Networks"
+      - name: "Chinese Patent: A Method for Evaluating Reserve Capacity of Urban Metro Networks"
         date: 2018
 
-      - title: Peikun Transportation Talent Fund Award
-        awarder: Tongji University
+      - name: Peikun Transportation Talent Fund Award
         date: 2017
+        summary: Tongji University.
 
-      - title: 13th Competition of Transport Science, First Prize
+      - name: 13th Competition of Transport Science, First Prize
         date: 2014
         summary: "Project: Research on Spatial Activity Patterns Based on Smartphone Data."
 
     Selected Publications:
-      - bullet: "Lei, Z., Shreekumar, A., Rosenthal, J., Song, R., Cardenas, A. A., Fremont, D. J., Xu, D., Ukkusuri, S. V., and Celik, Z. B. (2026). [Stable GFlowNets with TV Monitoring and Probabilistic Guarantees](/publications/#lei2026stablegflownets). Advances in Neural Information Processing Systems (NeurIPS), accepted."
-      - bullet: "Cai, Z. J., Zhang, Y. F., Tan, R., Lei, Z., and Ukkusuri, S. V. (2026). [Controllable Road Marking Generation](/publications/#cai2026roadmarking). Advances in Neural Information Processing Systems (NeurIPS), accepted."
-      - bullet: "Tan, R., Lei, Z., and Ukkusuri, S. (2026). [Worst-Case Hidden-Vehicle Trajectory Search in Spatiotemporal Occlusion Regions](/publications/#tan2026hiddenvehicle). ECCV 2026 Workshop on Safe and Defensive Autonomous Driving (SDAD), accepted oral presentation and Best Paper Award."
-      - bullet: "Yang, Z., Lei, Z., and Ukkusuri, S. (2026). [RiskLens: Auditing the Causal Geometry of End-to-End Driving Policies](/publications/#yang2026risklens). 1st IJCAI Workshop on Safe Physical AI."
-      - bullet: "See the [complete publication list](/publications/) for journal articles, conference papers, and preprints."
+      - bullet: "Lei, Z., Shreekumar, A., Rosenthal, J., Song, R., Cardenas, A. A., Fremont, D. J., Xu, D., Ukkusuri, S. V., and Celik, Z. B. (2026). [Stable GFlowNets with TV Monitoring and Probabilistic Guarantees](https://tjleizeng.github.io/publications/#lei2026stablegflownets). Advances in Neural Information Processing Systems (NeurIPS), accepted."
+      - bullet: "Cai, Z. J., Zhang, Y. F., Tan, R., Lei, Z., and Ukkusuri, S. V. (2026). [Controllable Road Marking Generation](https://tjleizeng.github.io/publications/#cai2026roadmarking). Advances in Neural Information Processing Systems (NeurIPS), accepted."
+      - bullet: "Tan, R., Lei, Z., and Ukkusuri, S. (2026). [Worst-Case Hidden-Vehicle Trajectory Search in Spatiotemporal Occlusion Regions](https://tjleizeng.github.io/publications/#tan2026hiddenvehicle). ECCV 2026 Workshop on Safe and Defensive Autonomous Driving (SDAD), accepted oral presentation and Best Paper Award."
+      - bullet: "Yang, Z., Lei, Z., and Ukkusuri, S. (2026). [RiskLens: Auditing the Causal Geometry of End-to-End Driving Policies](https://tjleizeng.github.io/publications/#yang2026risklens). 1st IJCAI Workshop on Safe Physical AI."
+      - bullet: "See the [complete publication list](https://tjleizeng.github.io/publications/) for journal articles, conference papers, and preprints."
 
     Invited Talks and Seminars:
       - bullet: '"Transportation Cybersecurity: A Network-Level Perspective." TraCR Scholar Webinar Series, August 27, 2025.'
@@ -123,10 +114,10 @@ cv:
         details: "Mentored seven students and junior collaborators: Mithun Debnath (2022), Ruichen Tan (2023–Present), Hongli Li (2024–Present), and Zhiyu Joey Cai, Ziyuan Yang, Shiveswarran Ratneswaran, and Yufan Flynn Zhang (2025–Present). Projects span generative AI, autonomous-system evaluation, mobility analytics, and transportation security."
 
     Selected Achievements of Mentored Students:
-      - bullet: "Ruichen Tan (first author): [Worst-Case Hidden-Vehicle Trajectory Search in Spatiotemporal Occlusion Regions](/publications/#tan2026hiddenvehicle) — Best Paper Award and accepted oral presentation, ECCV 2026 Workshop on Safe and Defensive Autonomous Driving (SDAD)."
-      - bullet: "Zhiyu Joey Cai (first author): [Controllable Road Marking Generation](/publications/#cai2026roadmarking) — accepted to the NeurIPS 2026 main track."
-      - bullet: "Hongli Li (first author): [Anticipatory demand planning for microtransit with strategic use of latent capacity at fixed stops](/publications/#li2026anticipatory) — Transportation Research Part E: Logistics and Transportation Review, 212 (2026), 104939."
-      - bullet: "Ziyuan Yang (first author): [RiskLens: Auditing the Causal Geometry of End-to-End Driving Policies](/publications/#yang2026risklens) — 1st IJCAI Workshop on Safe Physical AI, 2026."
+      - bullet: "Ruichen Tan (first author): [Worst-Case Hidden-Vehicle Trajectory Search in Spatiotemporal Occlusion Regions](https://tjleizeng.github.io/publications/#tan2026hiddenvehicle) — Best Paper Award and accepted oral presentation, ECCV 2026 Workshop on Safe and Defensive Autonomous Driving (SDAD)."
+      - bullet: "Zhiyu Joey Cai (first author): [Controllable Road Marking Generation](https://tjleizeng.github.io/publications/#cai2026roadmarking) — accepted to the NeurIPS 2026 main track."
+      - bullet: "Hongli Li (first author): [Anticipatory demand planning for microtransit with strategic use of latent capacity at fixed stops](https://tjleizeng.github.io/publications/#li2026anticipatory) — Transportation Research Part E: Logistics and Transportation Review, 212 (2026), 104939."
+      - bullet: "Ziyuan Yang (first author): [RiskLens: Auditing the Causal Geometry of End-to-End Driving Policies](https://tjleizeng.github.io/publications/#yang2026risklens) — 1st IJCAI Workshop on Safe Physical AI, 2026."
       - bullet: "Mithun Debnath (first author): Ride-Hailing Expansion and Urban Traffic Safety: A Data-Driven Perspective — accepted by ASCE's Journal of Transportation Engineering."
 
     Professional Service:
@@ -138,18 +129,7 @@ cv:
         details: 'ITE Special Seminar (2025), "Interdisciplinary Intelligent Transportation Systems: Traffic Control and Travel Time Dynamics," speaker Dr. Pushkin Kachroo.'
 
     Skills:
-      - name: Research Areas
-        keywords:
-          - Transportation AI
-          - simulation-based verification
-          - mobility-on-demand
-          - shared autonomous electric vehicles
-          - transportation cybersecurity
-          - disaster mobility
-      - name: Methods
-        keywords:
-          - reinforcement learning
-          - agent-based simulation
-          - large-scale mobility analytics
-          - scenario search
-          - trajectory data analysis
+      - label: Research Areas
+        details: Transportation AI, simulation-based verification, mobility-on-demand, shared autonomous electric vehicles, transportation cybersecurity, disaster mobility.
+      - label: Methods
+        details: Reinforcement learning, agent-based simulation, large-scale mobility analytics, scenario search, trajectory data analysis.

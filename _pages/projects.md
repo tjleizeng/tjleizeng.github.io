@@ -11,8 +11,6 @@ nav_order: 2
 
 I build scalable models and decision systems for transportation systems where demand, control, energy use, and security risks interact. A central thread in my work is using AI to design operational policies that remain practical at network scale.
 
-My long-term goal is simulation-supported reasoning: using machine learning to make large-scale simulation more realistic and efficient, while using simulation to stress-test, verify, and improve control policies for socio-cyber-physical systems.
-
 Representative work: [Scalable reinforcement learning approaches for dynamic pricing in ride-hailing systems](/publications/#lei2023pricing), Transportation Research Part B. Project: [umnilab/RL_pricing](https://github.com/umnilab/RL_pricing).
 
 ## Network-Level Simulation

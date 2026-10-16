@@ -28,8 +28,6 @@ latest_posts:
 
 I am a postdoctoral associate at Purdue University working on transportation AI, simulation, and cyber-physical systems. My research builds scalable models and decision systems for ride-hailing, shared autonomous electric fleets, evacuation, and transportation security.
 
-My long-term goal is simulation-supported reasoning: using machine learning to make large-scale simulation more realistic and efficient, while using simulation to stress-test, verify, and improve control policies for socio-cyber-physical systems.
-
 I completed my Ph.D. in Transportation and Infrastructure Systems Engineering at Purdue University, where my dissertation focused on efficient and secure ride-hailing services. I also served as student lead for the U.S. Department of Energy METS-R project and helped build METS-R SIM, an open-source city-scale multimodal electric mobility simulator.
 
 My current research is organized around three connected directions:
