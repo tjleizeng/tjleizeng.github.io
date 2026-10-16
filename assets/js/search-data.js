@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Academic appointments, education, research leadership, teaching, service, and honors.",
+          description: "Academic appointments, education, research leadership, selected publications, teaching, service, and honors.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
