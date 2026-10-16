@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/ZengxiangLei_CV.pdf
 cv_format: rendercv
-description: Academic appointments, education, research leadership, teaching, service, and honors.
+description: Academic appointments, education, research leadership, selected publications, teaching, service, and honors.
 toc:
   sidebar: left
 ---

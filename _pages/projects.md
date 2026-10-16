@@ -11,6 +11,8 @@ nav_order: 2
 
 I build scalable models and decision systems for transportation systems where demand, control, energy use, and security risks interact. A central thread in my work is using AI to design operational policies that remain practical at network scale.
 
+My long-term goal is simulation-supported reasoning: using machine learning to make large-scale simulation more realistic and efficient, while using simulation to stress-test, verify, and improve control policies for socio-cyber-physical systems.
+
 Representative work: [Scalable reinforcement learning approaches for dynamic pricing in ride-hailing systems](/publications/#lei2023pricing), Transportation Research Part B. Project: [umnilab/RL_pricing](https://github.com/umnilab/RL_pricing).
 
 ## Network-Level Simulation
@@ -30,6 +32,13 @@ I study how socio-cyber-physical transportation systems behave under strategic, 
 My Ph.D. research studied how mobility-on-demand systems can operate efficiently while remaining robust to strategic and adversarial behavior. This work includes scalable reinforcement learning approaches for dynamic pricing, data-driven fleet relocation, and network-level analysis of adversarial booking attacks against autonomous mobility-on-demand services.
 
 Representative work: [Assessing the risks of adversarial booking attack to autonomous mobility-on-demand services](/publications/#lei2025adversarialbooking), Transportation Research Part C. Project: [umnilab/ADV_Booking](https://github.com/umnilab/ADV_Booking).
+
+Recent work extends this direction to generative models and autonomous-system evaluation:
+
+- [Stable GFlowNets with TV Monitoring and Probabilistic Guarantees](/publications/#lei2026stablegflownets), accepted to NeurIPS 2026.
+- [Controllable Road Marking Generation](/publications/#cai2026roadmarking), accepted to the NeurIPS 2026 main track.
+- [Worst-Case Hidden-Vehicle Trajectory Search in Spatiotemporal Occlusion Regions](/publications/#tan2026hiddenvehicle), Best Paper Award and accepted oral presentation at the ECCV 2026 Workshop on Safe and Defensive Autonomous Driving (SDAD).
+- [RiskLens: Auditing the Causal Geometry of End-to-End Driving Policies](/publications/#yang2026risklens), 1st IJCAI Workshop on Safe Physical AI, 2026.
 
 ## Mobility Analytics for Disasters and Recovery
 

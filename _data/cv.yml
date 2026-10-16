@@ -8,6 +8,10 @@ cv:
   summary: >
     I build scalable models and decision systems for ride-hailing, shared
     autonomous electric fleets, evacuation, and transportation security.
+    My long-term goal is simulation-supported reasoning: using machine learning
+    to make large-scale simulation more realistic and efficient, while using
+    simulation to stress-test, verify, and improve control policies for
+    socio-cyber-physical systems.
 
   social_networks:
     - network: GitHub
@@ -99,15 +103,31 @@ cv:
         date: 2014
         summary: "Project: Research on Spatial Activity Patterns Based on Smartphone Data."
 
+    Selected Publications:
+      - bullet: "Lei, Z., Shreekumar, A., Rosenthal, J., Song, R., Cardenas, A. A., Fremont, D. J., Xu, D., Ukkusuri, S. V., and Celik, Z. B. (2026). [Stable GFlowNets with TV Monitoring and Probabilistic Guarantees](/publications/#lei2026stablegflownets). Advances in Neural Information Processing Systems (NeurIPS), accepted."
+      - bullet: "Cai, Z. J., Zhang, Y. F., Tan, R., Lei, Z., and Ukkusuri, S. V. (2026). [Controllable Road Marking Generation](/publications/#cai2026roadmarking). Advances in Neural Information Processing Systems (NeurIPS), accepted."
+      - bullet: "Tan, R., Lei, Z., and Ukkusuri, S. (2026). [Worst-Case Hidden-Vehicle Trajectory Search in Spatiotemporal Occlusion Regions](/publications/#tan2026hiddenvehicle). ECCV 2026 Workshop on Safe and Defensive Autonomous Driving (SDAD), accepted oral presentation and Best Paper Award."
+      - bullet: "Yang, Z., Lei, Z., and Ukkusuri, S. (2026). [RiskLens: Auditing the Causal Geometry of End-to-End Driving Policies](/publications/#yang2026risklens). 1st IJCAI Workshop on Safe Physical AI."
+      - bullet: "See the [complete publication list](/publications/) for journal articles, conference papers, and preprints."
+
     Invited Talks and Seminars:
       - bullet: '"Transportation Cybersecurity: A Network-Level Perspective." TraCR Scholar Webinar Series, August 27, 2025.'
       - bullet: '"Adversarial Booking Attacks for On-Demand Mobility Services." Purdue Institute of Transportation Engineers Student Chapter Seminar, November 28, 2023.'
 
     Teaching and Mentorship:
-      - label: "Co-Instructor, CE564: Data Science for Smart Cities"
+      - label: "Co-Instructor, Fall 2026 CCE564: Data Science for Smart Cities"
+        details: "Delivering half of the lectures and developing instructional materials on generative models for smart cities at Purdue University."
+      - label: "Co-Instructor, Fall 2025 CCE564: Data Science for Smart Cities"
         details: "Delivered four weeks of lectures and developed instructional materials on deep learning and reinforcement learning for transportation systems at Purdue University."
       - label: Research Mentorship
-        details: "Mentored seven students and junior collaborators on transportation simulation, mobility analytics, and security-focused research, contributing to a Transportation Research Part E publication and manuscripts submitted to competitive AI and systems venues."
+        details: "Mentored seven students and junior collaborators: Mithun Debnath (2022), Ruichen Tan (2023–Present), Hongli Li (2024–Present), and Zhiyu Joey Cai, Ziyuan Yang, Shiveswarran Ratneswaran, and Yufan Flynn Zhang (2025–Present). Projects span generative AI, autonomous-system evaluation, mobility analytics, and transportation security."
+
+    Selected Achievements of Mentored Students:
+      - bullet: "Ruichen Tan (first author): [Worst-Case Hidden-Vehicle Trajectory Search in Spatiotemporal Occlusion Regions](/publications/#tan2026hiddenvehicle) — Best Paper Award and accepted oral presentation, ECCV 2026 Workshop on Safe and Defensive Autonomous Driving (SDAD)."
+      - bullet: "Zhiyu Joey Cai (first author): [Controllable Road Marking Generation](/publications/#cai2026roadmarking) — accepted to the NeurIPS 2026 main track."
+      - bullet: "Hongli Li (first author): [Anticipatory demand planning for microtransit with strategic use of latent capacity at fixed stops](/publications/#li2026anticipatory) — Transportation Research Part E: Logistics and Transportation Review, 212 (2026), 104939."
+      - bullet: "Ziyuan Yang (first author): [RiskLens: Auditing the Causal Geometry of End-to-End Driving Policies](/publications/#yang2026risklens) — 1st IJCAI Workshop on Safe Physical AI, 2026."
+      - bullet: "Mithun Debnath (first author): Ride-Hailing Expansion and Urban Traffic Safety: A Data-Driven Perspective — accepted by ASCE's Journal of Transportation Engineering."
 
     Professional Service:
       - label: Journal Reviewer
